@@ -40,12 +40,12 @@ highlight_code = true
 title = "brandon espina/周文博"
 description = "我的中文不太好，可是我很喜欢学习。我会尽力翻译。"
 
-[languages.en.translations]
-language_name = "english"
-about = "about"
-home = "home"
-tags = "tags"
-projects = "projects"
+# [languages.en.translations]
+# language_name = "english"
+# about = "about"
+# home = "home"
+# tags = "tags"
+# projects = "projects"
 
 [languages.zh.translations]
 language_name = "中文"
