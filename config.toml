@@ -1,4 +1,4 @@
-base_url = "https://brespina.github.io"
+base_url = "https://brandonespina.com"
 theme = "apollo"
 taxonomies = [{ name = "tags" }]
 compile_sass = true
