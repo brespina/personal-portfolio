@@ -4,7 +4,7 @@ template = "homepage.html"
 description = ""
 +++
 
-hello world
+hello world. testing if deployment is CI/CD
 
 [do not click this](./gotem/video)
 
@@ -17,4 +17,5 @@ hello world
 [example pages](./tags/example/).
 
 [example projects](./projects/)
+
 
