@@ -10,6 +10,6 @@ jobs:
     steps:
     - uses: actions/checkout@main
     - name: zbrox/zola-deploy-action
-      uses: zbrox/zola-deploy-action@main
+      uses: zbrox/zola-deploy-action@master
       env:
         TOKEN: ${{ secrets.TOKEN }}
