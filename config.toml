@@ -4,7 +4,7 @@ taxonomies = [{ name = "tags" }]
 compile_sass = true
 build_search_index = false
 
-default_language = "en"
+# default_language = "en"
 author = "Brandon Espina"
 
 
@@ -36,9 +36,9 @@ highlight_code = true
 
 
 
-[languages.zh]
-title = "brandon espina/周文博"
-description = "我的中文不太好，可是我很喜欢学习。我会尽力翻译。"
+# [languages.zh]
+# title = "brandon espina/周文博"
+# description = "我的中文不太好，可是我很喜欢学习。我会尽力翻译。"
 
 # [languages.en.translations]
 # language_name = "english"
@@ -47,12 +47,12 @@ description = "我的中文不太好，可是我很喜欢学习。我会尽力�
 # tags = "tags"
 # projects = "projects"
 
-[languages.zh.translations]
-language_name = "中文"
-home = "首页"
-about = "关于"
-tags = "标签"
-projects = "项目"
+# [languages.zh.translations]
+# language_name = "中文"
+# home = "首页"
+# about = "关于"
+# tags = "标签"
+# projects = "项目"
 
 
 
