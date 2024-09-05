@@ -6,6 +6,8 @@ description = ""
 
 hello world. testing if deployment is CI/CD
 
+Adam pls gib me job (testing CI/CD)
+
 [do not click this](./gotem/video)
 
 [projects](./projects/)
