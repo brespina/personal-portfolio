@@ -1,5 +1,5 @@
 +++
-title = "get pwned noob"
+title = "pwned"
 +++
 
 

@@ -1,23 +1,14 @@
 +++
-title= "home"
+title = "root" 
 template = "homepage.html"
 description = ""
 +++
 
-hello world. testing if deployment is CI/CD
 
-[ally handro pls gib me job (testing CI/CD)](./gotem/video)
-
-[do not click this](./gotem/video)
 
 [projects](./projects/)
 
-[posts](./posts/) <- posts for now is a walkthrough of the template
-
-[webpage configuration](./posts/configuration)
-
-[example pages](./tags/example/).
-
-[example projects](./projects/)
+[posts](./posts/) <- contains template config posts  
 
 
+[do not click this](./gotem/video)

@@ -3,4 +3,4 @@ title = "about me"
 path = "about"
 +++
 
-swag.
+hello world. my name is brandon. i'm a computer science graduate from the university of houston.

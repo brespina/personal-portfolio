@@ -9,8 +9,8 @@ author = "Brandon Espina"
 
 
 # The site title and description; used in feeds by default.
-title = "brandon espina"
-description = ""
+title = "brandon espina (wip)"
+description = "init description"
 
 
 # When set to "true", a feed is automatically generated.
@@ -59,7 +59,7 @@ highlight_code = true
 
 
 [extra]
-
+favicon = "icons/favicon-32x32.png"
 toc = true
 dynamic_note = true
 theme = "toggle"
