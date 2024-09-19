@@ -1,6 +1,6 @@
 +++
 title = "Gaussian and Laplacian Kernel Convolutions for Blurring and Sharpening"
-description = "built custom filtering functions for blurring and sharpening images as well as implemented varying filtering methods to handle different types of noise within images."
+description = "Python, Pandas, NumPy, Scikit-Learn, OpenCV. built custom filtering functions for blurring and sharpening images as well as implemented varying filtering methods to handle different types of noise within images."
 weight = 1
 
 [extra]

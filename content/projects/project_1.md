@@ -1,6 +1,6 @@
 +++
 title = "Frequency and Spatial Filtering for Periodic Noise Removal"
-description = "one of my favorite class assignments of all time. this was an assignment for my digital image processing course."
+description = "Python, Pandas, NumPy, Scikit-Learn, OpenCV. one of my favorite class assignments of all time. this was an assignment for my digital image processing course."
 weight = 1
 
 [extra]

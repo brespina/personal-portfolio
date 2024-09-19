@@ -1,6 +1,6 @@
 +++
 title = "Post Office Web App"
-description = " PostgreSQL, TypeScript, fastAPI, react. my first introduction to web application development. this was my final project for my intro to databases course."
+description = "PostgreSQL, TypeScript, fastAPI, React. my first introduction to web application development. this was my final project for my intro to databases course."
 weight = 1
 
 [extra]
