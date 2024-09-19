@@ -13,7 +13,7 @@ my current interests are with learning linux, zsh, and vim.
 
 i am a beginner and decided go with linux fedora as it came recommended from a friend.
 
-unfortunately, the idea of free and open source software is something that captivated me recently. so down the rabbit hole i go. 
+unfortunately only recently has the idea of free and open source software is something that captivated me. so down the rabbit hole i go. 
 
 zsh, or zshell, was also recommended by the same friend. i have not used it enough to tell a difference in functionality quite yet, however, installing oh-my-zsh gave me a solid three hours of enjoyable customization for my terminal. procrastination at its finest.
 
