@@ -1,6 +1,6 @@
 +++
-title = "project 4"
-description = "example description with a lot of words but without any meaning. why use lorem ipsum when you can just write a lot of text that has no underlying meaning?"
+title = "Gaussian and Laplacian Kernel Convolutions for Blurring and Sharpening"
+description = "built custom filtering functions for blurring and sharpening images as well as implemented varying filtering methods to handle different types of noise within images."
 weight = 1
 
 [extra]
