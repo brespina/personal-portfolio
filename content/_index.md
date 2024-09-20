@@ -50,6 +50,7 @@ vim is a new challenge i've taken on, and i wish i’d started sooner. not using
 ## contact
 - [github](https://github.com/brespina)
 - [linkedin](https://linkedin.com/in/brandon-espina)
+- [email](mailto:brandon.r.espina@gmail.com)
 
 ---
 
