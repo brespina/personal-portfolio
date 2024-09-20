@@ -4,26 +4,57 @@ template = "homepage.html"
 description = ""
 +++
 
+---
 i am brandon. i'm a computer science graduate from the university of houston.
 
+i love to learn and solve puzzles. my current interests are linux, zsh, and vim.
 
-i love to learn. i love to solve puzzles.
+i am a beginner and decided to go with linux fedora as it came recommended from a friend. unfortunately, only recently has the idea of free and open-source software captivated me—so down the rabbit hole i go.
 
-my current interests are with learning linux, zsh, and vim. 
+zsh (z shell) was also recommended by the same friend. i haven’t used it enough to notice a big difference yet, but customizing it with oh-my-zsh gave me three solid hours of enjoyable procrastination.
 
-i am a beginner and decided go with linux fedora as it came recommended from a friend.
-
-unfortunately only recently has the idea of free and open source software is something that captivated me. so down the rabbit hole i go. 
-
-zsh, or zshell, was also recommended by the same friend. i have not used it enough to tell a difference in functionality quite yet, however, installing oh-my-zsh gave me a solid three hours of enjoyable customization for my terminal. procrastination at its finest.
-
-vim, i have only recently decided to take the plunge. i figured i have my whole career ahead of me so now is the best time to start. still a beginner so currently spamming a lot of `b, w, e, 0, $, dd` to name a few. and the more i use it the more i wish i had started sooner. not having to use the mouse feels like a layer of friction, that i was previously unaware of, has disappeared. i cannot wait until i get better.
+vim is a new challenge i've taken on, and i wish i’d started sooner. not using the mouse feels like a layer of friction has disappeared. right now, i’m getting familiar with commands like `b, w, e, 0, $, dd`, and the more i use it, the more efficient i feel.
 
 ```:q to exit btw```
 
-[projects](./projects/)
 
-[posts](./posts/) <- contains template config posts  
+---
+
+## certifications
+- docker foundations professional certificate: (2024-09)
+--- 
 
 
-[do not click this](./gotem/video)
+
+---
+
+## skills
+- **programming**: python, javascript, c++
+- **frameworks**: react, vue.js, nuxt.js
+- **tools**: git, docker, ci/cd, vim, zsh, bash, powershell
+---
+
+
+
+
+---
+
+## about me
+A Computer Science graduate with a passion for open-source software, problem-solving, and continuous learning. I am currently diving deep into Linux, Zsh, and Vim as I grow my skills in software development. My curiosity drives me to explore the latest technologies and tinker with new tools, and I’m always excited to learn and adapt.
+
+---
+
+## latest posts
+- [learning vim](./posts/learning-vim)
+- [why i switched to linux fedora](./posts/switching-to-linux)
+
+---
+
+## contact
+- [github](https://github.com/brespina)
+- [linkedin](https://linkedin.com/in/brandon-espina)
+
+---
+
+[Projects](./projects/) | [Posts](./posts/) | [Do Not Click This](./gotem/video)
+

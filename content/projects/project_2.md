@@ -1,6 +1,6 @@
 +++
-title = "Time Series Forecasting of Housing Prices" 
-description = "Python, Pandas, NumPy, Scikit-Learn, OpenCV. using publicly available data from zillow and the federal government, i created predictions on what the price would be in the next quarter."
+title = "time series forecasting on housing prices" 
+description = "python, pandas, numpy, scikit-learn, opencv. using publicly available data from zillow and the federal government, i created predictions on what the price would be in the next quarter."
 weight = 1
 
 [extra]
