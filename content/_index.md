@@ -54,5 +54,5 @@ vim is a new challenge i've taken on, and i wish i’d started sooner. not using
 
 ---
 
-[/home](./) | [/projects](./projects/) | [/posts](./posts/) | [/tags](./tags/) | [/do not click this](./gotem/video)
+[/do not click this](./gotem/video)
 

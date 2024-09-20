@@ -7,7 +7,7 @@ weight = 1
 local_image = "/projects/project-1.jpg"
 +++
 
-Frequency and Spatial Filtering for Periodic Noise Removal:
+frequency and spatial filtering for periodic noise removal:
 
 here we were tasked to use fourier transform on a signal. our signal is an image but to apply the fourier transform we have to note two things:
 
