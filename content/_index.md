@@ -21,7 +21,7 @@ vim is a new challenge i've taken on, and i wish i’d started sooner. not using
 ---
 
 ## certifications
-- docker foundations professional certificate: (2024-09)
+- **docker foundations professional certificate**: (2024-09)
 
 --- 
 
