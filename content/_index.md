@@ -7,7 +7,7 @@ description = ""
 ---
 i am brandon. i'm a computer science graduate from the university of houston.
 
-i love to learn and solve puzzles. my current interests are linux, zsh, and vim.
+i love to learn and solve puzzles. my curiousity leads me to tinker with new tools and technologies. my current interests are linux, zsh, and vim.
 
 i am a beginner and decided to go with linux fedora as it came recommended from a friend. unfortunately, only recently has the idea of free and open-source software captivated me—so down the rabbit hole i go.
 
@@ -22,6 +22,7 @@ vim is a new challenge i've taken on, and i wish i’d started sooner. not using
 
 ## certifications
 - docker foundations professional certificate: (2024-09)
+
 --- 
 
 
@@ -32,21 +33,17 @@ vim is a new challenge i've taken on, and i wish i’d started sooner. not using
 - **programming**: python, javascript, c++
 - **frameworks**: react, vue.js, nuxt.js
 - **tools**: git, docker, ci/cd, vim, zsh, bash, powershell
----
-
-
-
 
 ---
 
-## about me
-A Computer Science graduate with a passion for open-source software, problem-solving, and continuous learning. I am currently diving deep into Linux, Zsh, and Vim as I grow my skills in software development. My curiosity drives me to explore the latest technologies and tinker with new tools, and I’m always excited to learn and adapt.
+
+
 
 ---
 
 ## latest posts
 - [learning vim](./posts/learning-vim)
-- [why i switched to linux fedora](./posts/switching-to-linux)
+- [learning linux](./posts/learning-linux)
 
 ---
 
@@ -56,5 +53,5 @@ A Computer Science graduate with a passion for open-source software, problem-sol
 
 ---
 
-[Projects](./projects/) | [Posts](./posts/) | [Do Not Click This](./gotem/video)
+[/projects](./projects/) | [/posts](./posts/) | [/tags](./tags/) | [/do not click this](./gotem/video)
 
