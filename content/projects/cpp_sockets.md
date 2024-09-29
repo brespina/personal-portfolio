@@ -1,6 +1,6 @@
 +++
 title = "interprocess communication with sockets"
-description = "postgresql, typescript, fastAPI, react. my first introduction to web application development. this was my final project for my intro to databases course."
+description = "Operating Systems Class Assignment 3"
 weight = 1
 
 [extra]
