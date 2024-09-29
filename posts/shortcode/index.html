@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+<html class="dark light">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    
+
+    
+    
+    
+    <title>
+         shortcode example
+        
+    </title>
+
+        
+            <meta property="og:title" content="shortcode example" />
+        
+     
+
+     
+         
+             <meta property="og:description" content="init description" />
+         
+     
+
+     
+         
+             <meta name="description" content="init description" />
+         
+    
+
+    
+    
+        <link rel="icon" type="image/png" href=icons&#x2F;favicon-32x32.png />
+    
+
+    
+    
+        <link href=https://brandonespina.com/fonts.css rel="stylesheet" />
+    
+
+    
+    
+
+    
+    
+
+    
+    
+        <script src=https://brandonespina.com/js/toc.js></script>
+    
+    
+    
+    
+        <script src=https://brandonespina.com/js/note.js></script>
+    
+
+    
+
+    
+    <link rel="alternate" type="application/atom+xml" title="brandon espina (wip)" href="https://brandonespina.com/atom.xml">
+
+
+    
+    
+        <link rel="stylesheet" type="text/css" href=https://brandonespina.com/theme/light.css />
+        <link id="darkModeStyle" rel="stylesheet" type="text/css" href="https://brandonespina.com/theme/dark.css" />
+    
+
+    <!-- Set the correct theme in the script -->
+    <script src=https://brandonespina.com/js/themetoggle.js></script>
+    
+        <script>setTheme(getSavedTheme());</script>
+    
+
+    <link rel="stylesheet" type="text/css" media="screen" href=https://brandonespina.com/main.css />
+
+    
+</head>
+
+
+<body>
+    <div class="content">
+        <header>
+    <div class="main">
+        <a href=https:&#x2F;&#x2F;brandonespina.com>brandon espina (wip)</a>
+
+        <div class="socials">
+            
+            <a rel="me" href="https:&#x2F;&#x2F;github.com&#x2F;brespina&#x2F;" class="social">
+                <img alt=github src=https://brandonespina.com/social_icons/github.svg>
+            </a>
+            
+            <a rel="me" href="https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;brandon-espina&#x2F;" class="social">
+                <img alt=linkedin src=https://brandonespina.com/social_icons/linkedin.svg>
+            </a>
+            
+            <a rel="me" href="mailto:brandon.r.espina@gmail.com" class="social">
+                <img alt=email src=https://brandonespina.com/social_icons/email.svg>
+            </a>
+            
+        </div>
+    </div>
+
+    <nav>
+        
+        <a href=https://brandonespina.com/projects style="margin-left: 0.5em">&#x2F;projects</a>
+        
+        <a href=https://brandonespina.com/posts style="margin-left: 0.5em">&#x2F;posts</a>
+        
+        <a href=https://brandonespina.com/tags style="margin-left: 0.5em">&#x2F;tags</a>
+        
+
+
+        
+        |<a id="dark-mode-toggle" onclick="toggleTheme(); event.preventDefault();" href="#">
+            <img src=https://brandonespina.com/feather/sun.svg id="sun-icon" style="filter: invert(1);" alt="Light" />
+            <img src=https://brandonespina.com/feather/moon.svg id="moon-icon" alt="Dark" />
+        </a>
+<!-- 
+        
+        <a id="language-toggle" href="https:&#x2F;&#x2F;brandonespina.com/zh/">中文</a>
+         -->
+
+
+
+        <!-- Inititialize the theme toggle icons -->
+        <script>updateItemToggleTheme()</script>
+        
+    </nav>
+</header>
+
+        
+        
+    
+<main>
+    <article>
+        <div class="title">
+            
+            
+    <div class="page-header">
+        shortcode example<span class="primary-color" style="font-size: 1.6em">.</span>
+    </div>
+
+
+                <div class="meta">
+                    
+                        Posted on <time>2024-06-14</time>
+                    
+
+                    
+
+                    
+
+                    
+                    
+                            <span class="tags-label"> :: Tags:</span>
+                            <span class="tags">
+                                    <a href="https://brandonespina.com/tags/example/" class="post-tag">example</a>
+                                
+                            </span>
+                    
+
+                    
+                    
+
+                    
+
+                </div>
+        </div>
+
+        
+
+        
+        
+        
+            <div class="toc-container">
+                <h1 class="toc-title">Table of Contents</h1>
+                <ul class="toc-list">
+                    
+                        <li>
+                            <a href="https://brandonespina.com/posts/shortcode/#note">Note</a>
+                            
+                        </li>
+                    
+                </ul>
+            </div>
+        
+        
+
+        <section class="body">
+            <h2 id="note"><a class="zola-anchor" href="#note" aria-label="Anchor link for: note">Note</a></h2>
+<p>Here is an example of the <code>note</code> shortcode:</p>
+<p>This one is static!
+<div class="note-container">
+  
+    <div class="note-header">
+      
+        <div class="note-icon">
+        <p>Note!</p>
+
+        </div>
+      
+    </div>
+    <div class="note-content">
+      <p>This blog assumes basic terminal maturity</p>
+
+    </div>
+  
+</div>
+</p>
+<p>This one is clickable!
+<div class="note-container">
+  
+    <button class="note-toggle">
+      
+        <div class="note-icon">
+        <p>Quiz!</p>
+
+        </div>
+      
+    </button>
+
+    
+    <div class="note-content" style="display: none;">
+    
+    <p>The answer to the quiz!</p>
+
+    </div>
+  
+</div>
+</p>
+<p>Syntax:</p>
+<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>{{ note(header=&quot;Note!&quot;, body=&quot;This blog assumes basic terminal maturity&quot;) }}
+</span><span>{{ note(clickable=true, hidden = true, header=&quot;Quiz!&quot;, body=&quot;The answer to the quiz!&quot;) }}
+</span></code></pre>
+<p>You can also use some HTML in the text:
+<div class="note-container">
+  
+    <div class="note-header">
+      
+        <div class="note-icon">
+        <p>Note!</p>
+
+        </div>
+      
+    </div>
+    <div class="note-content">
+      <h1>This blog assumes basic terminal maturity</h1>
+    </div>
+  
+</div>
+</p>
+<p>Literal shortcode:</p>
+<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>{{ note(header=&quot;Note!&quot;, body=&quot;&lt;h1&gt;This blog assumes basic terminal maturity&lt;/h1&gt;&quot;) }}
+</span></code></pre>
+<p>Pretty cool, right?</p>
+<p>Finally, you can do something like this (hopefully):</p>
+<div class="note-container">
+  
+    <button class="note-toggle">
+      
+        <div class="note-icon">
+        <p>Quiz!</p>
+
+        </div>
+      
+    </button>
+
+    
+    <div class="note-content" style="display: block;">
+    
+    <h1 id="hello-this-is-markdown-inside-a-note-shortcode">Hello this is markdown inside a note shortcode</h1>
+<pre data-lang="rust" style="background-color:#2b303b;color:#c0c5ce;" class="language-rust "><code class="language-rust" data-lang="rust"><span style="color:#b48ead;">fn </span><span style="color:#8fa1b3;">main</span><span>() {
+</span><span>    println!(&quot;</span><span style="color:#a3be8c;">Hello World</span><span>&quot;);
+</span><span>}
+</span></code></pre>
+<p>We can't call another shortcode inside a shortcode, but this is good enough.</p>
+
+    </div>
+  
+</div>
+<p>Here is the raw markdown:</p>
+<pre data-lang="markdown" style="background-color:#2b303b;color:#c0c5ce;" class="language-markdown "><code class="language-markdown" data-lang="markdown"><span>{{ note(clickable=true, header=&quot;Quiz!&quot;) }}
+</span><span>
+</span><span style="color:#8fa1b3;"># Hello this is markdown inside a note shortcode
+</span><span>
+</span><span style="color:#96b5b4;">\`\`\`</span><span>rust
+</span><span>fn main() {
+</span><span>    println!(&quot;Hello World&quot;);
+</span><span>}
+</span><span style="color:#96b5b4;">\`\`\`
+</span><span>
+</span><span>We can&#39;t call another shortcode inside a shortcode, but this is good enough.
+</span><span>
+</span><span>{{/* end </span><span style="font-style:italic;color:#b48ead;">*/}}
+</span></code></pre>
+<p>Finally, we have center
+<div class="note-container">
+  
+    <div class="note-header">
+      
+        <div class="note-center">
+        <p>Centered Text</p>
+
+        </div>
+      
+    </div>
+    <div class="note-content">
+      <p>This is centered text</p>
+
+    </div>
+  
+</div>
+</p>
+<pre data-lang="markdown" style="background-color:#2b303b;color:#c0c5ce;" class="language-markdown "><code class="language-markdown" data-lang="markdown"><span>{{ note(center=true, header=&quot;Centered Text&quot;, body=&quot;This is centered text&quot;) }}
+</span></code></pre>
+<p>It works good enough for me!</p>
+
+        </section>
+    </article>
+</main>
+
+
+
+        
+
+    </div>
+</body>
+
+</html>
