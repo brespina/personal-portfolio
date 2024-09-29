@@ -59,6 +59,10 @@ highlight_code = true
 
 
 [extra]
+meta = [
+    {property = "og:title", content = "the og title"},
+    {property = "og:description", content = "the og description"},
+]
 favicon = "icons/favicon-32x32.png"
 toc = true
 dynamic_note = true
